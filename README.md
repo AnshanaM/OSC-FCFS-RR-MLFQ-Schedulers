@@ -1,4 +1,5 @@
 # OSC-FCFS-RR-MLFQ-Schedulers
+This code was written for Operating Systems and Concurrancy module coursework during 2nd year, Autumn semester.
 How to run the program?
 STEP 1. Build and run the file called Group(PGA25).c
 STEP 2. There are 4 options in the main menu prompting the user for input:
